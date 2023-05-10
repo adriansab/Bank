@@ -1,6 +1,6 @@
 import Account from "../src/account.js";
-import StatementPrinter from "../src/StatementPrinter.js";
-import Transaction from "../src/Transaction.js";
+import StatementPrinter from "../src/statementPrinter.js";
+import Transaction from "../src/transaction.js";
 
 describe("Account", () => {
     let account;
